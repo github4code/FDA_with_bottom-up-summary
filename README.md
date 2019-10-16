@@ -1,8 +1,10 @@
 # FM_Attention_with_bottom-up-summary
 
-FM_Attention (focus masking attention) with bottom-up summarization is based on bottom-up-summary by Sebastian Gehrmann from Harvard. 
-It is a fine-tuned version with its bottom-up attention mechanism on both word and sentence levels. 
-The results show that both word-level weight adjustment and sentence-level attention enhancement can improve the summary generation performance.
+FM_Attention (focus masking attention) is based on bottom-up-summary by Sebastian Gehrmann from Harvard. <br>
+It's a fine-tuned version with bottom-up attention mechanism on both word and sentence levels. <br>
+The result also shows that both word-level reweighting and sentence-level enhancement get improvement respectively. 
+
+- The dataset is the [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/) dataset. 
 
 <img src="https://i.imgur.com/yNQMibc.png" width="75%" height="60%">
 
