@@ -15,7 +15,7 @@ The dataset is the [CNN/DailyMail](https://cs.nyu.edu/~kcho/DMQA/) dataset.
 
 ## Here is the brief introduction for our work 
 
-Website : https://bit.ly/2VQLuxg
-
+- Website : https://bit.ly/2VQLuxg
+- Click for the video :
 [![Watch the video](https://img.youtube.com/vi/xw_xsnhuUig/maxresdefault.jpg)](https://www.youtube.com/watch?v=xw_xsnhuUig)
 
